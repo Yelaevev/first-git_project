@@ -1,0 +1,9 @@
+c:\users\speedfire\documents\visual studio 2017\Projects\test_class2\test_class2\bin\Debug\netcoreapp1.1\test_class2.deps.json
+c:\users\speedfire\documents\visual studio 2017\Projects\test_class2\test_class2\bin\Debug\netcoreapp1.1\test_class2.runtimeconfig.json
+c:\users\speedfire\documents\visual studio 2017\Projects\test_class2\test_class2\bin\Debug\netcoreapp1.1\test_class2.runtimeconfig.dev.json
+c:\users\speedfire\documents\visual studio 2017\Projects\test_class2\test_class2\bin\Debug\netcoreapp1.1\test_class2.dll
+c:\users\speedfire\documents\visual studio 2017\Projects\test_class2\test_class2\bin\Debug\netcoreapp1.1\test_class2.pdb
+c:\users\speedfire\documents\visual studio 2017\Projects\test_class2\test_class2\obj\Debug\netcoreapp1.1\test_class2.csprojResolveAssemblyReference.cache
+c:\users\speedfire\documents\visual studio 2017\Projects\test_class2\test_class2\obj\Debug\netcoreapp1.1\test_class2.AssemblyInfo.cs
+c:\users\speedfire\documents\visual studio 2017\Projects\test_class2\test_class2\obj\Debug\netcoreapp1.1\test_class2.dll
+c:\users\speedfire\documents\visual studio 2017\Projects\test_class2\test_class2\obj\Debug\netcoreapp1.1\test_class2.pdb
